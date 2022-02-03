@@ -1,0 +1,234 @@
+This Report shows possible RWIS issues on 01/18/2022
+
+
+RWIS ATMOSPHERIC REPORT 
+========================
+
+SITE      SITE NAME                                                   ISSUES
+OH025F    D09 OH025F HIG SR73 04.22- SR73 South of TR409              No Wind Reading
+OH027F    D09 OH027F LAW US52 09.00- US52 N of Ice Creek              No Temp Wind & Precip Reading
+OH050F    D11 OH050F BEL IR470 06.38- IR470 @ SR7                     No Temp & Wind Reading
+OH102F    D08 OH102F BUT US27 20.89- US27 N of TR50 Stout Rd          No Temp & Wind Reading
+OH111F    D06 OH111F FRA IR670 09.03- IR670 @ Airport exit            No Temp Wind & Precip Reading
+OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 No Temp Wind & Precip Reading
+OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            No Temp Reading
+OH183M    D06 OH183M FRA IR71 @ IR270 South Columbus                  No Wind & Precip Reading
+OH184M    D08 OH184M GRE IR675 0 78 IR 675 North of Feedwire Rd       No Wind & Precip Reading
+OH185M    D07 OH185M MOT IR75 14.91- IR 75 @ Stanley Ave              No Wind & Precip Reading
+OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  No Temp Wind & Precip Reading
+OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      No Temp Wind & Precip Reading
+OH190M    D12 OH190M LAK I-90 WB @ CR221                              No Wind & Precip Reading
+OH193M    D01 OH193M PAU US24 @ Ohio Stateline                        No Temp Wind & Precip Reading
+OH194M    D08 OH194M HAM IR275 @ Louisville Pike                      No Wind & Precip Reading
+OH195M    D10 OH195M WAS IR77 @ SR7 Interchange                       No Wind & Precip Reading
+OH196M    D10 OH196M ATH US33 @ SR78 & SR691                          No Wind & Precip Reading
+OH197M    D12 OH197M CUY IR480 N @ Miles Rd                           No Wind & Precip Reading
+OH198M    D05 OH198M GUE IR77 @ 70                                    No Wind & Precip Reading
+OH200M    D04 OH200M SUM IR271 @ IR77                                 No Temp Wind & Precip Reading
+OH201M    D04 OH201F&M MAH SR711 @ US422                              No Wind & Precip Reading
+OH202M    D12 OH202M CUY IR480 @ SR10                                 No Wind & Precip Reading
+OH203M    D12 OH203M CUY IR271 @ US322                                No Wind & Precip Reading
+OH205M    D12 OH205M LAK I-90 EB @ CR221                              No Wind & Precip Reading
+OH206M    D08 OH206M BUT IR275 @ IR75 Hamilton Butler County Line     No Wind & Precip Reading
+OH207M    D08 OH207M WAR IR75 @ Warren/Montgomery County Line         No Temp Wind & Precip Reading
+OH208M    D12 OH208M LAK I-90 WB @ CR141 (S County Line Rd)           No Wind & Precip Reading
+OH210M    D06 OH210M FRA I670-Airport Connector                       No Wind & Precip Reading
+OH211M    D12 OH211M LAK I-90 WB @ OH86 (Painesville Warren Rd)       No Wind & Precip Reading
+OH215M    D12 OH215M LAK I-90 EB @ CR 413 (Hermitage Rd)              No Wind & Precip Reading
+OH217M    D12 OH217M GEA SR528 @ SR87                                 No Wind & Precip Reading
+OH218M    D12 OH218M CUY IR71 @ Snow Road                             No Wind & Precip Reading
+
+
+RWIS SURFACE SENSOR REPORT
+==========================
+
+SITE      SITE NAME                                                   SENSOR    SENSOR NAME                                       ISSUES
+OH005F    D01 OH005F VAN US30 03.86- US30 @ SR49                      1         US30 Eastbound Driving (1)                        No Reading
+OH012F    D05 OH012F FAI US33 11.02- US33 @ Hocking Rvr               0         US33 WB Driving Lane Bridge Deck (0)              No Reading
+OH013F    D05 OH013F KNO US36 15.81- Knox County Garage               1         SR-3 SB Driving (1)                               No Reading
+OH021F    D07 OH021F LOG US33 17.63- US33 S of SR540                  1         US-33 West Bound Passing Lane (1)                 No Reading
+OH026F    D09 OH026F JAC SR32 11.79- SR32 @ US35                      1         US 35 SB Driving Lane (1)                         No Reading
+OH027F    D09 OH027F LAW US52 09.00- US52 N of Ice Creek              0         SR52 EB Driving Approach (0)                      No Reading
+OH027F    D09 OH027F LAW US52 09.00- US52 N of Ice Creek              1         SR52 WB Driving Bridgedeck (1)                    No Reading
+OH033F    D10 OH033F HOC US33 09.22- US 33@ Hocking River             0         US33 EB Driving (0)                               No Reading
+OH036F    D10 OH036F MRG SR60 09.98- SR60 @ SR607                     1         SR60 WB Lane (1)                                  No Reading
+OH037F    D10 OH037F VIN SR32 02.66- SR32 @ SR160                     0         SR32 EB Driving (0)                               No Reading
+OH042F    D11 OH042F JEF SR7 14.65- SR7 S of Steubenville             1         SR7 NB Driving (1)                                No Reading
+OH042F    D11 OH042F JEF SR7 14.65- SR7 S of Steubenville             2         SR7 SB Driving (2)                                No Reading
+OH043F    D08 OH043F PRE IR70 00.77- IR70 W of CR320                  1         IR70 WB Driving (1)                               No Reading
+OH045F    D07 OH045F CLA IR70 44.30- IR70 @ IR675                     1         I675 SB Passing Departure (1)                     No Reading
+OH046F    D07 OH046F CLA IR70 62.08- IR70 @ US40                      0         I70 EB Driving (0)                                No Reading
+OH050F    D11 OH050F BEL IR470 06.38- IR470 @ SR7                     0         IR470 EB Driving (0)                              No Reading
+OH050F    D11 OH050F BEL IR470 06.38- IR470 @ SR7                     1         IR470 WB Driving (1)                              No Reading
+OH061F&M  D08 OH061F&M HAM IR275 18.01- IR275 @ US50(W)               0         IR275 NB Driving (0)                              No Reading
+OH061F&M  D08 OH061F&M HAM IR275 18.01- IR275 @ US50(W)               1         I-275 SB Passing Lane IS (1)                      No Reading
+OH063F    D08 OH063F GRE IR675 07.50- IR675 @ MOT County line         2         IceSight (3)                                      No Reading
+OH064F    D08 OH064F BUT IR75 17.60- IR75 @ HAM County line           1         IR75 SB Driving (1)                               No Reading
+OH069F    D07 OH069F SHE IR75 105.56- IR75 @ SHE County line          0         IR75 NB Driving (0)                               No Reading
+OH069F    D07 OH069F SHE IR75 105.56- IR75 @ SHE County line          1         IR75 SB Driving (1)                               No Reading
+OH073F    D10 OH073F NOB IR77 17.01- IR77 @ SR821                     0         IR77 SB Driving (0)                               No Reading
+OH075F    D11 OH075F TUS IR77 60.05- IR77 @ GUE County line           0         IR77 NB Driving (0)                               No Reading
+OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           0         I90 EB Passing (0)                                No Reading
+OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           1         I90 EB Driving (1)                                No Reading
+OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           2         I90 WB Passing (2)                                No Reading
+OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           3         Site 5 mm215                                      No Reading
+OH082F    D04 OH082F TRU IR80 237.0- IR80 @ PA line                   0         I-80 East Bound Driving Lane                      No Reading
+OH082F    D04 OH082F TRU IR80 237.0- IR80 @ PA line                   1         IR80 WB Driving (1)                               No Reading
+OH083F    D04 OH083F POR IR76 50.2- IR76 @ MAH County line            0         IR76 EB Passing (0)                               No Reading
+OH083F    D04 OH083F POR IR76 50.2- IR76 @ MAH County line            1         IR76 WB Passing Bridgedeck (1)                    No Reading
+OH086F    D04 OH086F MAH SR11 00.00- SR11 @ COL County line           0         SR11 NB Driving (0)                               No Reading
+OH093F    D05 OH093F LIC IR70 128.97- IR70 @ SR79                     2         IR70 EB Driving (2)                               No Reading
+OH093F    D05 OH093F LIC IR70 128.97- IR70 @ SR79                     3         IR70 WB Driving (3)                               No Reading
+OH101F    D05 OH101F LIC IR70 112.16- IR70 @ SR256                    0         IR70 WB Passing (0)                               No Reading
+OH102F    D08 OH102F BUT US27 20.89- US27 N of TR50 Stout Rd          0         SR27 NB Lane (0)                                  No Reading
+OH103F    D08 OH103F HAM IR275 72.55- IR275 @ US52(E)                 0         I275 SB Driving Bridgedeck (0)                    No Reading
+OH105F    D06 OH105F FRA IR71 118.87- IR71 @ Schrock Road             0         Schrock Rd Approach (0)                           No Reading
+OH106F    D06 OH106F PIC US23 08.67- US23 @ US22                      0         US23 SB Passing BridgeDeck                        No Reading
+OH107F    D06 OH107F MAD IR70 80.81- IR70 @ SR29                      0         SR29 NB Bridgedeck (0)                            No Reading
+OH107F    D06 OH107F MAD IR70 80.81- IR70 @ SR29                      1         I70 WB Driving Lane (1)                           No Reading
+OH109F    D06 OH109F FRA IR71 101.62- IR71 S @ IR270                  0         I-71 NB Passing Bridge Deck (0)                   No Reading
+OH109F    D06 OH109F FRA IR71 101.62- IR71 S @ IR270                  1         I-71 NB Passing Approach (1)                      No Reading
+OH109F    D06 OH109F FRA IR71 101.62- IR71 S @ IR270                  2         I-270 EB Passing                                  No Reading
+OH111F    D06 OH111F FRA IR670 09.03- IR670 @ Airport exit            0         Airport Connector Bridgedeck (0)                  No Reading
+OH111F    D06 OH111F FRA IR670 09.03- IR670 @ Airport exit            1         I670 EB Passing (1)                               No Reading
+OH111F    D06 OH111F FRA IR670 09.03- IR670 @ Airport exit            2         I670 WB Passing (2)                               No Reading
+OH111F    D06 OH111F FRA IR670 09.03- IR670 @ Airport exit            3         670 WB Driving IS (3)                             No Reading
+OH114F    D04 OH114F SUM IR480 38.90- IR480 @ Old Mill Rd.            1         I480 WB Driving (1)                               No Reading
+OH152F    D12 OH152F CUY IR90 171.02- IR90 @ Fairfield Ave            1         I-90 EB N3 Lane Bridge (1)                        No Reading
+OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 0         I-90 WB N3 Lane (0)                               No Reading
+OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 1         I-90 WB N3 Lane Bridge (1)                        No Reading
+OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 2         I-90 EB N3 Lane Bridge (2)                        No Reading
+OH154F    D12 OH154F LAK IR271 40.00- IR271 @ IR90                    0         I-271 NB TG I-90 EB (0)                           No Reading
+OH154F    D12 OH154F LAK IR271 40.00- IR271 @ IR90                    1         I-90 EB N2 Lane Bridge (1)                        No Reading
+OH154F    D12 OH154F LAK IR271 40.00- IR271 @ IR90                    2         I-271 NB TG I-90 WB Bridge (2)                    No Reading
+OH154F    D12 OH154F LAK IR271 40.00- IR271 @ IR90                    3         I-271 NB TG I-90 WB (3)                           No Reading
+OH156F    D12 OH156F CUY IR71 237.58- IR71 @ Snow Rd                  2         I-71 SB N3 Lane (2)                               No Reading
+OH157F    D12 OH157F CUY IR77 156.64- IR77 @ IR480                    0         I-77 NB Bridge Deck (0)                           No Reading
+OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            0         I-480 N WB N2 Lane (0)                            No Reading
+OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            1         I-480 N WB N2 Lane Br (1)                         No Reading
+OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 0         I-71 NB Passing Approach (0)                      No Reading
+OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 1         I-71 NB Passing Bridge Deck (1)                   No Reading
+OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 2         I-71 SB Departure Driving Lane (2)                No Reading
+OH162F    D12 OH162F GEA US422 00.23- US422 @ River Rd                0         US-422 WB N2 Lane (0)                             No Reading
+OH163F    D12 OH163F GEA US422 09.21- US422 @ SR44                    0         US-422 EB N2 Lane Br (0)                          No Reading
+OH164F    D12 OH164F GEA SR528 06.32- SR528 @ SR87                    0         SR-87 WB Roadway (0)                              No Reading
+OH164F    D12 OH164F GEA SR528 06.32- SR528 @ SR87                    1         SR-528 NB Roadway (1)                             No Reading
+OH164F    D12 OH164F GEA SR528 06.32- SR528 @ SR87                    2         Intersection IS (3)                               No Reading
+OH167F    D12 OH167F LAK IR90 199.70- IR90 @ Hermitage Rd             0         I-90 WB N2 Lane Br (0)                            No Reading
+OH167F    D12 OH167F LAK IR90 199.70- IR90 @ Hermitage Rd             1         I-90 EB N2 Lane Br (1)                            No Reading
+OH167F    D12 OH167F LAK IR90 199.70- IR90 @ Hermitage Rd             2         I-90 EB N2 Lane (2)                               No Reading
+OH167F    D12 OH167F LAK IR90 199.70- IR90 @ Hermitage Rd             3         Site 1 mm 199 EB                                  No Reading
+OH168F    D12 OH168F LAK IR90 207.08- IR90 @ Paine Rd                 0         I-90 WB N2 Lane Br (0)                            No Reading
+OH168F    D12 OH168F LAK IR90 207.08- IR90 @ Paine Rd                 1         I-90 EB N2 Lane Br (1)                            No Reading
+OH168F    D12 OH168F LAK IR90 207.08- IR90 @ Paine Rd                 2         I-90 EB N2 Lane (2)                               No Reading
+OH168F    D12 OH168F LAK IR90 207.08- IR90 @ Paine Rd                 3         Site 3 mm207 EB - Bridge Deck                     No Reading
+OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  0         Site 4 mm 211 E Bound                             No Reading
+OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  1         Site 6 mm 211 W Bound                             No Reading
+OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      0         Site 2 mm203 EB                                   No Reading
+OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      1         Site 8 mm203 WB                                   No Reading
+OH190M    D12 OH190M LAK I-90 WB @ CR221                              0         Site 7 mm207 WB                                   No Reading
+OH191F    D08 OH191F WAR IR71 35.00-IR71 @ Jeremiah Morrow Bridge     0         IR71 SB Right Shoulder (0)                        No Reading
+OH193M    D01 OH193M PAU US24 @ Ohio Stateline                        0         surface                                           No Reading
+OH194M    D08 OH194M HAM IR275 @ Louisville Pike                      0         surface                                           No Reading
+OH195M    D10 OH195M WAS IR77 @ SR7 Interchange                       0         surface                                           No Reading
+OH209F    D09 OH209F BRO US68 @ East Fork Fivemile Creek              1         US68 SB Lane                                      No Reading
+OH209F    D09 OH209F BRO US68 @ East Fork Fivemile Creek              2         surface 3                                         No Reading
+
+
+RWIS SUB SENSOR REPORT
+======================
+
+SITE      SITE NAME                                                   SENSOR    SENSOR NAME                                       ISSUES
+OH002F    D01 OH002F HAR SR235 16.00- SR235 @ SR309                   0         SubSurface Sensor                                 No Reading
+OH005F    D01 OH005F VAN US30 03.86- US30 @ SR49                      0         SubSurface Sensor                                 No Reading
+OH006F    D01 OH006F WYA US30 11.05- US30/23 @ Wyandot Ave            0         SubSurface Sensor                                 No Reading
+OH008F    D03 OH008F HUR US250 08.73- US250 @ HUR Garage              0         SubSurface Sensor                                 No Reading
+OH020F    D07 OH020F DAR SR502 03.31- SR502 @ CR30                    0         SubSurface Sensor                                 No Reading
+OH021F    D07 OH021F LOG US33 17.63- US33 S of SR540                  0         SubSurface Sensor                                 No Reading
+OH026F    D09 OH026F JAC SR32 11.79- SR32 @ US35                      0         SubSurface Sensor                                 No Reading
+OH027F    D09 OH027F LAW US52 09.00- US52 N of Ice Creek              0         SubSurface Sensor                                 No Reading
+OH033F    D10 OH033F HOC US33 09.22- US 33@ Hocking River             0         SubSurface Sensor                                 No Reading
+OH037F    D10 OH037F VIN SR32 02.66- SR32 @ SR160                     0         SubSurface Sensor                                 No Reading
+OH038F    D11 OH038F CAR SR43 07.26- SR43 @ SR9                       0         SubSurface Sensor                                 No Reading
+OH041F    D11 OH041F HOL US62 03.49- US62 @ SR206                     0         SubSurface Sensor                                 No Reading
+OH042F    D11 OH042F JEF SR7 14.65- SR7 S of Steubenville             0         SubSurface Sensor                                 No Reading
+OH045F    D07 OH045F CLA IR70 44.30- IR70 @ IR675                     0         SubSurface Sensor                                 No Reading
+OH048F    D05 OH048F GUE IR70 170.54- IR70 @ TR14                     0         SubSurface Sensor                                 No Reading
+OH050F    D11 OH050F BEL IR470 06.38- IR470 @ SR7                     0         SubSurface Sensor                                 No Reading
+OH051F    D08 OH051F PRE US127 00.38 - US127 @ SR744                  0         SubSurface Sensor                                 No Reading
+OH055F    D06 OH055F MRW IR71 138.10- IR71 @ DEL County line          0         SubSurface Sensor                                 No Reading
+OH056F    D03 OH056F RIC IR71 158.05- IR71 @ CR1                      0         SubSurface Sensor                                 No Reading
+OH057F    D03 OH057F RIC IR71 174.39- IR71 S of SR430                 0         SubSurface Sensor                                 No Reading
+OH060F    D04 OH060F SUM IR271 10.25- IR271 @ IR77                    0         SubSurface Sensor                                 No Reading
+OH061F&M  D08 OH061F&M HAM IR275 18.01- IR275 @ US50(W)               0         SubSurface Sensor                                 No Reading
+OH069F    D07 OH069F SHE IR75 105.56- IR75 @ SHE County line          0         SubSurface Sensor                                 No Reading
+OH070F    D07 OH070F AUG IR75 118.20- IR75 @ CR208                    0         SubSurface Sensor                                 No Reading
+OH073F    D10 OH073F NOB IR77 17.01- IR77 @ SR821                     0         SubSurface Sensor                                 No Reading
+OH075F    D11 OH075F TUS IR77 60.05- IR77 @ GUE County line           0         SubSurface Sensor                                 No Reading
+OH077F    D03 OH077F ERI SR2 19.51- SR2 @ Huron River                 0         SubSurface Sensor                                 No Reading
+OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           0         SubSurface Sensor                                 No Reading
+OH082F    D04 OH082F TRU IR80 237.0- IR80 @ PA line                   0         SubSurface Sensor                                 No Reading
+OH083F    D04 OH083F POR IR76 50.2- IR76 @ MAH County line            0         SubSurface Sensor                                 No Reading
+OH084F    D04 OH084F POR IR76 29.8- IR76 @ SUM County line            0         SubSurface Sensor                                 No Reading
+OH086F    D04 OH086F MAH SR11 00.00- SR11 @ COL County line           0         SubSurface Sensor                                 No Reading
+OH088F    D06 OH088F FRA IR270 30.46- IR 270 @ SR 161                 0         SubSurface Sensor                                 No Reading
+OH092F    D04 OH092F ATB SR7 18.08- SR7 @ SR167 East                  0         SubSurface Sensor                                 No Reading
+OH093F    D05 OH093F LIC IR70 128.97- IR70 @ SR79                     0         SubSurface Sensor                                 No Reading
+OH094F    D05 OH094F KNO SR3 34.35- SR3 @ Shadley Valley Cr.          0         SubSurface Sensor                                 No Reading
+OH101F    D05 OH101F LIC IR70 112.16- IR70 @ SR256                    0         SubSurface Sensor                                 No Reading
+OH105F    D06 OH105F FRA IR71 118.87- IR71 @ Schrock Road             0         SubSurface Sensor                                 No Reading
+OH106F    D06 OH106F PIC US23 08.67- US23 @ US22                      0         SubSurface Sensor                                 No Reading
+OH109F    D06 OH109F FRA IR71 101.62- IR71 S @ IR270                  0         SubSurface Sensor                                 No Reading
+OH110F    D06 OH110F FRA US33 26.00- US33 @ Hamilton Rd               0         SubSurface Sensor                                 No Reading
+OH111F    D06 OH111F FRA IR670 09.03- IR670 @ Airport exit            0         SubSurface Sensor                                 No Reading
+OH113F    D04 OH113F SUM CR100 04.89- CR100 @ Mud Brook               0         SubSurface Sensor                                 No Reading
+OH114F    D04 OH114F SUM IR480 38.90- IR480 @ Old Mill Rd.            0         SubSurface Sensor                                 No Reading
+OH152F    D12 OH152F CUY IR90 171.02- IR90 @ Fairfield Ave            0         SubSurface Sensor                                 No Reading
+OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 0         SubSurface Sensor                                 No Reading
+OH154F    D12 OH154F LAK IR271 40.00- IR271 @ IR90                    0         SubSurface Sensor                                 No Reading
+OH156F    D12 OH156F CUY IR71 237.58- IR71 @ Snow Rd                  0         SubSurface Sensor                                 No Reading
+OH157F    D12 OH157F CUY IR77 156.64- IR77 @ IR480                    0         SubSurface Sensor                                 No Reading
+OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            0         SubSurface Sensor                                 No Reading
+OH159F    D12 OH159F CUY IR271 34.93- IR271 @ US322                   0         SubSurface Sensor                                 No Reading
+OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 0         SubSurface Sensor                                 No Reading
+OH161F    D12 OH161F CUY IR77 150.02- IR77 @ SR82                     0         SubSurface Sensor                                 No Reading
+OH162F    D12 OH162F GEA US422 00.23- US422 @ River Rd                0         SubSurface Sensor                                 No Reading
+OH163F    D12 OH163F GEA US422 09.21- US422 @ SR44                    0         SubSurface Sensor                                 No Reading
+OH164F    D12 OH164F GEA SR528 06.32- SR528 @ SR87                    0         SubSurface Sensor                                 No Reading
+OH165F    D12 OH165F GEA SR44 18.39- SR44 @ Mentor Rd                 0         SubSurface Sensor                                 No Reading
+OH167F    D12 OH167F LAK IR90 199.70- IR90 @ Hermitage Rd             0         SubSurface Sensor                                 No Reading
+OH168F    D12 OH168F LAK IR90 207.08- IR90 @ Paine Rd                 0         SubSurface Sensor                                 No Reading
+OH169F    D12 OH169F LAK US20 23.19- US20 @ Parmly Rd                 0         SubSurface Sensor                                 No Reading
+OH170F    D09 OH170F ADA SR32 24.68- SR32 @ CR16 Union Hill Rd        0         SubSurface Sensor                                 No Reading
+OH171F    D06 OH171F FRA IR71 97.49- IR71 @ SR665                     0         SubSurface Sensor                                 No Reading
+OH173F    D01 OH173F HAN US30 12.22- US30 @ SR68                      0         SubSurface Sensor                                 No Reading
+OH175F    D01 OH175F HAR SR235 04.42- SR235 @ SR67                    0         SubSurface Sensor                                 No Reading
+OH179F    D10 OH179F ATH US33 3.44- US33 @ SR78 & SR691               0         SubSurface Sensor                                 No Reading
+OH182F    D07 OH182F SHE IR75 86.73-IR75 S of Kirkwood R              0         SubSurface Sensor                                 No Reading
+OH183M    D06 OH183M FRA IR71 @ IR270 South Columbus                  0         SubSurface Sensor                                 No Reading
+OH184M    D08 OH184M GRE IR675 0 78 IR 675 North of Feedwire Rd       0         SubSurface Sensor                                 No Reading
+OH185M    D07 OH185M MOT IR75 14.91- IR 75 @ Stanley Ave              0         SubSurface Sensor                                 No Reading
+OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  0         SubSurface Sensor                                 No Reading
+OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      0         SubSurface Sensor                                 No Reading
+OH190M    D12 OH190M LAK I-90 WB @ CR221                              0         SubSurface Sensor                                 No Reading
+OH191F    D08 OH191F WAR IR71 35.00-IR71 @ Jeremiah Morrow Bridge     0         SubSurface Sensor                                 No Reading
+OH193M    D01 OH193M PAU US24 @ Ohio Stateline                        0         SubSurface Sensor                                 No Reading
+OH194M    D08 OH194M HAM IR275 @ Louisville Pike                      0         SubSurface Sensor                                 No Reading
+OH195M    D10 OH195M WAS IR77 @ SR7 Interchange                       0         SubSurface Sensor                                 No Reading
+OH196M    D10 OH196M ATH US33 @ SR78 & SR691                          0         SubSurface Sensor                                 No Reading
+OH197M    D12 OH197M CUY IR480 N @ Miles Rd                           0         SubSurface Sensor                                 No Reading
+OH198M    D05 OH198M GUE IR77 @ 70                                    0         SubSurface Sensor                                 No Reading
+OH200M    D04 OH200M SUM IR271 @ IR77                                 0         SubSurface Sensor                                 No Reading
+OH201M    D04 OH201F&M MAH SR711 @ US422                              0         SubSurface Sensor                                 No Reading
+OH202M    D12 OH202M CUY IR480 @ SR10                                 0         SubSurface Sensor                                 No Reading
+OH203M    D12 OH203M CUY IR271 @ US322                                0         SubSurface Sensor                                 No Reading
+OH205M    D12 OH205M LAK I-90 EB @ CR221                              0         SubSurface Sensor                                 No Reading
+OH206M    D08 OH206M BUT IR275 @ IR75 Hamilton Butler County Line     0         SubSurface Sensor                                 No Reading
+OH207M    D08 OH207M WAR IR75 @ Warren/Montgomery County Line         0         SubSurface Sensor                                 No Reading
+OH208M    D12 OH208M LAK I-90 WB @ CR141 (S County Line Rd)           0         SubSurface Sensor                                 No Reading
+OH210M    D06 OH210M FRA I670-Airport Connector                       0         SubSurface Sensor                                 No Reading
+OH211M    D12 OH211M LAK I-90 WB @ OH86 (Painesville Warren Rd)       0         SubSurface Sensor                                 No Reading
+OH215M    D12 OH215M LAK I-90 EB @ CR 413 (Hermitage Rd)              0         SubSurface Sensor                                 No Reading
+OH217M    D12 OH217M GEA SR528 @ SR87                                 0         SubSurface Sensor                                 No Reading
+OH218M    D12 OH218M CUY IR71 @ Snow Road                             0         SubSurface Sensor                                 No Reading
+

@@ -1,0 +1,34 @@
+RWIS ATMOSPHERIC REPORT 
+========================
+
+SITE      SITE NAME                                                   ISSUES
+OH070F    D07 OH070F AUG IR75 118.20- IR75 @ CR208                    No Temp & Wind Reading
+OH107F    D06 OH107F MAD IR70 80.81- IR70 @ SR29                      No Precip Reading
+OH108F    D06 OH108F FRA IR70 99.17- IR70 @ IR71 S/SR315 N            No Precip Reading
+OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 No Temp Wind & Precip Reading
+OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            No Temp Reading
+OH183M    D06 OH183M FRA IR71 @ IR270 South Columbus                  No Wind & Precip Reading
+OH184M    D08 OH184M GRE IR675 0 78 IR 675 North of Feedwire Rd       No Wind & Precip Reading
+OH185M    D07 OH185M MOT IR75 14.91- IR 75 @ Stanley Ave              No Wind & Precip Reading
+OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  No Temp Wind & Precip Reading
+OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      No Temp Wind & Precip Reading
+OH190M    D12 OH190M LAK I-90 WB @ CR221                              No Wind & Precip Reading
+OH193M    D01 OH193M PAU US24 @ Ohio Stateline                        No Temp Wind & Precip Reading
+OH194M    D08 OH194M HAM IR275 @ Louisville Pike                      No Wind & Precip Reading
+OH195M    D10 OH195M WAS IR77 @ SR7 Interchange                       No Wind & Precip Reading
+OH196M    D10 OH196M ATH US33 @ SR78 & SR691                          No Wind & Precip Reading
+OH197M    D12 OH197M CUY IR480 N @ Miles Rd                           No Wind & Precip Reading
+OH198M    D05 OH198M GUE IR77 @ 70                                    No Wind & Precip Reading
+OH200M    D04 OH200M SUM IR271 @ IR77                                 No Temp Wind & Precip Reading
+OH201M    D04 OH201F&M MAH SR711 @ US422                              No Wind & Precip Reading
+OH202M    D12 OH202M CUY IR480 @ SR10                                 No Wind & Precip Reading
+OH203M    D12 OH203M CUY IR271 @ US322                                No Wind & Precip Reading
+OH205M    D12 OH205M LAK I-90 EB @ CR221                              No Wind & Precip Reading
+OH206M    D08 OH206M BUT IR275 @ IR75 Hamilton Butler County Line     No Wind & Precip Reading
+OH207M    D08 OH207M WAR IR75 @ Warren/Montgomery County Line         No Temp Wind & Precip Reading
+OH208M    D12 OH208M LAK I-90 WB @ CR141 (S County Line Rd)           No Wind & Precip Reading
+OH210M    D06 OH210M FRA I670-Airport Connector                       No Wind & Precip Reading
+OH211M    D12 OH211M LAK I-90 WB @ OH86 (Painesville Warren Rd)       No Wind & Precip Reading
+OH215M    D12 OH215M LAK I-90 EB @ CR 413 (Hermitage Rd)              No Wind & Precip Reading
+OH217M    D12 OH217M GEA SR528 @ SR87                                 No Wind & Precip Reading
+OH218M    D12 OH218M CUY IR71 @ Snow Road                             No Wind & Precip Reading
