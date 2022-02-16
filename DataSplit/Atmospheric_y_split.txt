@@ -2,16 +2,15 @@ RWIS ATMOSPHERIC REPORT
 ========================
 
 SITE      SITE NAME                                                   ISSUES
+OH012F    D05 OH012F FAI US33 11.02- US33 @ Hocking Rvr               No Temp Wind & Precip Reading
 OH070F    D07 OH070F AUG IR75 118.20- IR75 @ CR208                    No Temp & Wind Reading
-OH107F    D06 OH107F MAD IR70 80.81- IR70 @ SR29                      No Precip Reading
-OH108F    D06 OH108F FRA IR70 99.17- IR70 @ IR71 S/SR315 N            No Precip Reading
 OH153F    D12 OH153F CUY IR90 180.01- IR90 @ E. 140th                 No Temp Wind & Precip Reading
 OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            No Temp Reading
 OH183M    D06 OH183M FRA IR71 @ IR270 South Columbus                  No Wind & Precip Reading
 OH184M    D08 OH184M GRE IR675 0 78 IR 675 North of Feedwire Rd       No Wind & Precip Reading
 OH185M    D07 OH185M MOT IR75 14.91- IR 75 @ Stanley Ave              No Wind & Precip Reading
 OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  No Temp Wind & Precip Reading
-OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      No Temp Wind & Precip Reading
+OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      No Wind & Precip Reading
 OH190M    D12 OH190M LAK I-90 WB @ CR221                              No Wind & Precip Reading
 OH193M    D01 OH193M PAU US24 @ Ohio Stateline                        No Temp Wind & Precip Reading
 OH194M    D08 OH194M HAM IR275 @ Louisville Pike                      No Wind & Precip Reading

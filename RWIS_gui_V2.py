@@ -2,7 +2,9 @@ import tkinter as tk
 from tkinter import font  as tkfont 
 from tkinter import *
 from tkinter import filedialog, messagebox, ttk
+
 from turtle import width
+
 
 import pandas as pd
 from pandas import MultiIndex
@@ -31,6 +33,9 @@ class StartPage(tk.Frame):
         label = tk.Label(self, text="RWIS REPORTS", font=controller.title_font)
         label.pack(side="top", fill="x", pady=10)
         
+        
+
+            
         
         def gather_today():
             global curr_data
@@ -61,6 +66,8 @@ class StartPage(tk.Frame):
             sub_data = open(f'C:\\Users\\{user_actual}\\Documents\\RWIS\\DataSplit\\Sub_t_split.txt','w')
             sub_data.writelines(rwis_sub)
             sub_data.close()  
+            
+            self.update()
             
             return curr_data, t_dateoffile
         
@@ -95,15 +102,20 @@ class StartPage(tk.Frame):
             sub_data = open(f'C:\\Users\\{user_actual}\\Documents\\RWIS\\DataSplit\\Sub_y_split.txt','w')
             sub_data.writelines(rwis_sub)
             sub_data.close()
+            self.update()
             
             return prev_data, y_dateoffile
+        
+        
+        
+        
         
         
                         #################
                         ##   BUTTONS   ##
                         #################
         
-        button_T, = tk.Button(self, text="Select Today's Report",
+        button_T = tk.Button(self, text="Select Today's Report",
                             command= gather_today)
         button_T.pack()
 
@@ -112,7 +124,7 @@ class StartPage(tk.Frame):
         button_T.pack()
 
         button1 = tk.Button(self, text="Run Atmospheric Diff",
-                            command=lambda: controller.show_frame("Atmospheric_Report"))
+                            command= lambda: self.controller.show_frame("Atmospheric_Report"))
         button1.pack()
         
         button2 = tk.Button(self,text="Run Surface Diff", command=lambda: controller.show_frame("Surface_Report"))
@@ -121,16 +133,27 @@ class StartPage(tk.Frame):
 
 
 class Atmospheric_Report(tk.Frame):             
+     
 
+    #def refresh(self, Atmospheric_Report):
+    #    tk.Frame.destroy(self)
+    #    tk.Frame.__init__(self)
     def __init__(self, parent, controller):
+        
         tk.Frame.__init__(self, parent,width=600, height=800)
+        
+        self.update()
+        
+        
         self.controller = controller
+            
         label = tk.Label(self, text="Atmospheric Report", font=controller.title_font)
         label.pack(side="top", fill="x", pady=10)
 
-        button = tk.Button(self, text="Restart",
+        button = tk.Button(self, text="Back",
                            command=lambda: controller.show_frame("StartPage"))
         button.pack()
+        
 
         t_atmo = ATMOSPHERIC_TODAY()
         y_atmo = ATMOSPHERIC_YESTERDAY()
@@ -160,6 +183,15 @@ class Atmospheric_Report(tk.Frame):
         df_rows = df.to_numpy().tolist()
         for row in df_rows:
             tva.insert('','end', values = row)
+            
+        
+        def Print_Atmospheric_Report():
+            messagebox.showinfo("Say Hello", "Hello World")
+            print('Atmospheric Report')
+            
+            
+        button_upat = tk.Button(self, text="Update", command= Print_Atmospheric_Report)
+        button_upat.pack()
         
         
 
@@ -176,7 +208,7 @@ class Surface_Report(tk.Frame):
         label = tk.Label(self, text="Surface Report", font=controller.title_font)
         label.pack(side="top", fill="x", pady=10)        
         
-        button = tk.Button(self, text="Restart",
+        button = tk.Button(self, text="Back",
                            command=lambda: controller.show_frame("StartPage"))
         button.pack()
         
@@ -472,6 +504,8 @@ class My_GUI(tk.Tk):
         container.pack(side="top", fill="both", expand=True)
         container.grid_rowconfigure(0, weight=1)
         container.grid_columnconfigure(0, weight=1)
+        
+        
 
         self.frames = {}
         for F in (StartPage, Atmospheric_Report, Surface_Report):
@@ -479,7 +513,9 @@ class My_GUI(tk.Tk):
             frame = F(parent=container, controller=self)
             self.frames[page_name] = frame
             
-            
+            #def refresh(self):
+             #   self.destroy()
+              #  self.__init__(self)
 
 
             frame.grid(row=0, column=0, sticky="nsew")

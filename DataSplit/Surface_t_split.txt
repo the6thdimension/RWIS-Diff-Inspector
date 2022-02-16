@@ -2,34 +2,48 @@ RWIS SURFACE SENSOR REPORT
 ==========================
 
 SITE      SITE NAME                                                   SENSOR    SENSOR NAME                                       ISSUES
+OH003F    D01 OH003F PAU US24 00.14- US24 @ Indiana line              1         US24 WB Driving (1)                               No Reading
 OH005F    D01 OH005F VAN US30 03.86- US30 @ SR49                      1         US30 Eastbound Driving (1)                        No Reading
 OH010F    D04 OH010F TRU SR5 10.75- SR5 @ SR45                        1         SR5 EB Passing (1)                                No Reading
 OH012F    D05 OH012F FAI US33 11.02- US33 @ Hocking Rvr               0         US33 WB Driving Lane Bridge Deck (0)              No Reading
 OH012F    D05 OH012F FAI US33 11.02- US33 @ Hocking Rvr               1         US33 EB Driving Lane (1)                          No Reading
 OH013F    D05 OH013F KNO US36 15.81- Knox County Garage               1         SR-3 SB Driving (1)                               No Reading
 OH019F    D07 OH019F CHP US68 00.64- US68 @ RR bridge                 1         US68 NB Driving Lane (1)                          No Reading
-OH019F    D07 OH019F CHP US68 00.64- US68 @ RR bridge                 2         US68 NB Driving Lane Bridgedeck (2)               No Reading
 OH021F    D07 OH021F LOG US33 17.63- US33 S of SR540                  1         US-33 West Bound Passing Lane (1)                 No Reading
+OH022F    D07 OH022F MER SR29 01.63- SR 29 @ Hickory Branch           0         SR29 EB Lane (0)                                  No Reading
+OH022F    D07 OH022F MER SR29 01.63- SR 29 @ Hickory Branch           1         SR 29 WB Lane (1)                                 No Reading
+OH023F    D09 OH023F ADA SR136 04.15- SR136 @ SR41                    0         SR136 NB Lane (0)                                 No Reading
+OH023F    D09 OH023F ADA SR136 04.15- SR136 @ SR41                    1         SR136 SB Lane (1)                                 No Reading
 OH026F    D09 OH026F JAC SR32 11.79- SR32 @ US35                      1         US 35 SB Driving Lane (1)                         No Reading
 OH026F    D09 OH026F JAC SR32 11.79- SR32 @ US35                      2         SR32 Eastbound Driving Lane Bridgedeck (2)        No Reading
+OH027F    D09 OH027F LAW US52 09.00- US52 N of Ice Creek              0         SR52 EB Driving Approach (0)                      No Reading
+OH027F    D09 OH027F LAW US52 09.00- US52 N of Ice Creek              1         SR52 WB Driving Bridgedeck (1)                    No Reading
 OH031F    D10 OH031F ATH US50 17.68- US50 @ TR52                      0         US50 EB Driving (0)                               No Reading
 OH033F    D10 OH033F HOC US33 09.22- US 33@ Hocking River             0         US33 EB Driving (0)                               No Reading
+OH035F    D10 OH035F MOE SR7 12.82- SR7 @ WV7                         0         SR7 NB Driving Lane (0)                           No Reading
+OH035F    D10 OH035F MOE SR7 12.82- SR7 @ WV7                         1         SR7 SB Driving Lane (1)                           No Reading
 OH036F    D10 OH036F MRG SR60 09.98- SR60 @ SR607                     1         SR60 WB Lane (1)                                  No Reading
 OH037F    D10 OH037F VIN SR32 02.66- SR32 @ SR160                     0         SR32 EB Driving (0)                               No Reading
+OH037F    D10 OH037F VIN SR32 02.66- SR32 @ SR160                     1         SR32 WB Driving Bridgedeck (1)                    No Reading
 OH042F    D11 OH042F JEF SR7 14.65- SR7 S of Steubenville             1         SR7 NB Driving (1)                                No Reading
 OH042F    D11 OH042F JEF SR7 14.65- SR7 S of Steubenville             2         SR7 SB Driving (2)                                No Reading
 OH043F    D08 OH043F PRE IR70 00.77- IR70 W of CR320                  1         IR70 WB Driving (1)                               No Reading
+OH044F    D07 OH044F MOT IR70 17.87- IR70 @ PRE County line           0         I-70 WB Passing (0)                               No Reading
 OH044F    D07 OH044F MOT IR70 17.87- IR70 @ PRE County line           1         IR70 EB Driving (1)                               No Reading
 OH045F    D07 OH045F CLA IR70 44.30- IR70 @ IR675                     1         I675 SB Passing Departure (1)                     No Reading
 OH046F    D07 OH046F CLA IR70 62.08- IR70 @ US40                      0         I70 EB Driving (0)                                No Reading
+OH047F    D05 OH047F MUS IR70 143.52- IR70 @ LIC County Line N        0         IR70 EB Driving (0)                               No Reading
+OH047F    D05 OH047F MUS IR70 143.52- IR70 @ LIC County Line N        1         IR70 WB Driving (1)                               No Reading
+OH047F    D05 OH047F MUS IR70 143.52- IR70 @ LIC County Line N        2         IR70 EB Passing (2)                               No Reading
+OH047F    D05 OH047F MUS IR70 143.52- IR70 @ LIC County Line N        3         IR70 WB Passing (3)                               No Reading
 OH050F    D11 OH050F BEL IR470 06.38- IR470 @ SR7                     1         IR470 WB Driving (1)                              No Reading
+OH051F    D08 OH051F PRE US127 00.38 - US127 @ SR744                  1         US127 SB Bridgedeck (1)                           No Reading
 OH061F&M  D08 OH061F&M HAM IR275 18.01- IR275 @ US50(W)               0         IR275 NB Driving (0)                              No Reading
 OH061F&M  D08 OH061F&M HAM IR275 18.01- IR275 @ US50(W)               1         I-275 SB Passing Lane IS (1)                      No Reading
 OH063F    D08 OH063F GRE IR675 07.50- IR675 @ MOT County line         2         IceSight (3)                                      No Reading
 OH064F    D08 OH064F BUT IR75 17.60- IR75 @ HAM County line           1         IR75 SB Driving (1)                               No Reading
-OH069F    D07 OH069F SHE IR75 105.56- IR75 @ SHE County line          0         IR75 NB Driving (0)                               No Reading
-OH069F    D07 OH069F SHE IR75 105.56- IR75 @ SHE County line          1         IR75 SB Driving (1)                               No Reading
-OH075F    D11 OH075F TUS IR77 60.05- IR77 @ GUE County line           0         IR77 NB Driving (0)                               No Reading
+OH078F    D03 OH078F LOR IR90 144.93- IR90 @ CR204                    0         I-90 East Bound Driving Lane                      No Reading
+OH078F    D03 OH078F LOR IR90 144.93- IR90 @ CR204                    1         I-90 East Bound Passing Lane                      No Reading
 OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           0         I90 EB Passing (0)                                No Reading
 OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           1         I90 EB Driving (1)                                No Reading
 OH079F    D04 OH079F ATB IR90 215.3- IR90 @ LAK County line           2         I90 WB Passing (2)                                No Reading
@@ -49,6 +63,7 @@ OH103F    D08 OH103F HAM IR275 72.55- IR275 @ US52(E)                 0         
 OH103F    D08 OH103F HAM IR275 72.55- IR275 @ US52(E)                 1         I275 NB Driving (1)                               No Reading
 OH104F    D06 OH104F DEL IR71 130.70@ US36                            0         I71 SB Driving (0)                                No Reading
 OH105F    D06 OH105F FRA IR71 118.87- IR71 @ Schrock Road             0         Schrock Rd Approach (0)                           No Reading
+OH106F    D06 OH106F PIC US23 08.67- US23 @ US22                      0         US23 SB Passing BridgeDeck                        No Reading
 OH107F    D06 OH107F MAD IR70 80.81- IR70 @ SR29                      0         SR29 NB Bridgedeck (0)                            No Reading
 OH107F    D06 OH107F MAD IR70 80.81- IR70 @ SR29                      1         I70 WB Driving Lane (1)                           No Reading
 OH109F    D06 OH109F FRA IR71 101.62- IR71 S @ IR270                  0         I-71 NB Passing Bridge Deck (0)                   No Reading
@@ -72,6 +87,8 @@ OH156F    D12 OH156F CUY IR71 237.58- IR71 @ Snow Rd                  2         
 OH157F    D12 OH157F CUY IR77 156.64- IR77 @ IR480                    0         I-77 NB Bridge Deck (0)                           No Reading
 OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            0         I-480 N WB N2 Lane (0)                            No Reading
 OH158F    D12 OH158F CUY IR480 N 00.62- IR480 N @ Miles Rd            1         I-480 N WB N2 Lane Br (1)                         No Reading
+OH159F    D12 OH159F CUY IR271 34.93- IR271 @ US322                   1         I-271 SB N2 Lane (1)                              No Reading
+OH159F    D12 OH159F CUY IR271 34.93- IR271 @ US322                   3         I-271 NB N2 Lane (3)                              No Reading
 OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 0         I-71 NB Passing Approach (0)                      No Reading
 OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 1         I-71 NB Passing Bridge Deck (1)                   No Reading
 OH160F    D12 OH160F CUY IR71 229.69- IR71 @ Drake Rd                 2         I-71 SB Departure Driving Lane (2)                No Reading
@@ -91,6 +108,9 @@ OH168F    D12 OH168F LAK IR90 207.08- IR90 @ Paine Rd                 3         
 OH170F    D09 OH170F ADA SR32 24.68- SR32 @ CR16 Union Hill Rd        1         US32 WB Driving (1)                               No Reading
 OH173F    D01 OH173F HAN US30 12.22- US30 @ SR68                      1         US30 WB Driving Bridgedeck (1)                    No Reading
 OH176F    D01 OH176F VAN SR49 01.44- SR49 @ SR81/St. Mary's R.        1         SR81 Westbound Bridgedeck (1)                     No Reading
+OH183M    D06 OH183M FRA IR71 @ IR270 South Columbus                  0         270 WB Driving IS (0)                             No Reading
+OH184M    D08 OH184M GRE IR675 0 78 IR 675 North of Feedwire Rd       0         675 SB Driving IS (0)                             No Reading
+OH185M    D07 OH185M MOT IR75 14.91- IR 75 @ Stanley Ave              0         75 SB Driving IS (0)                              No Reading
 OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  0         Site 4 mm 211 E Bound                             No Reading
 OH186M    D12 OH186M LAK I-90 EB @ CR 100 (River Rd)                  1         Site 6 mm 211 W Bound                             No Reading
 OH188M    D12 OH188M LAK I-90 EB @ OH-86 (Painesville Warren Rd)      0         Site 2 mm203 EB                                   No Reading
