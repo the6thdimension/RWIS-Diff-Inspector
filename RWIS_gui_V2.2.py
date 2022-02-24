@@ -441,7 +441,7 @@ class RWIS:
     
     def gather_yesterday():
 
-            StartPage.
+            
             
             global prev_data
             global AtmoSiteList_y
